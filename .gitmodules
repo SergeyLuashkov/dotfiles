@@ -1,0 +1,9 @@
+[submodule "apps/dwm"]
+	path = apps/dwm
+	url = git@github.com:SergeyLuashkov/dwm.git
+[submodule "apps/st"]
+	path = apps/st
+	url = git@github.com:SergeyLuashkov/st.git
+[submodule "apps/slstatus"]
+	path = apps/slstatus
+	url = git@github.com:SergeyLuashkov/slstatus.git
