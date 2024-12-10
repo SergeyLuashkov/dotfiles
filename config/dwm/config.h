@@ -17,11 +17,11 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const char *fonts[]          = { "NotoMono Nerd Font:size=14" };
 static const char dmenufont[]       = "NotoMono Nerd Font:size=14";
-static const char col_gray1[]       = "#282828";
-static const char col_gray2[]       = "#3c3836";
-static const char col_gray3[]       = "#ebdbb2";
-static const char col_gray4[]       = "#fbf1c7";
-static const char col_cyan[]        = "#458588";
+static const char col_gray1[]       = "#1e1e1e";
+static const char col_gray2[]       = "#2d2d2d";
+static const char col_gray3[]       = "#d3d7cf";
+static const char col_gray4[]       = "#eeeeee";
+static const char col_cyan[]        = "#4a90d9";
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
 	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },

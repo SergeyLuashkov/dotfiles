@@ -7,3 +7,6 @@
 [submodule "apps/slstatus"]
 	path = apps/slstatus
 	url = git@github.com:SergeyLuashkov/slstatus.git
+[submodule "apps/Gruvbox-Material-Dark"]
+	path = apps/Gruvbox-Material-Dark
+	url = https://aur.archlinux.org/gruvbox-material-theme-git.git
